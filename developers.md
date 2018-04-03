@@ -104,7 +104,7 @@ recruit@doomoolmori.com 으로 이력서와 아래 공통/우대사항 해당 �
   - Ansible, Chef, Puppet, SaltStack 등 설정 관리 도구 사용 경험이 있으신 분.
 - 컨테이너 기반 시스템 운영 경험이 있으신 분.
   - Docker 등 컨테이너 사용 경험이 있으신 분.
-  - Kubernetes, Nomad 등 컨테이너 오케스트레이션 강아지 페키도구 활용 경험이 있으신 분.
+  - Kubernetes, Nomad 등 컨테이너 오케스트레이션 도구 활용 경험이 있으신 분.
   - VM 기반 레거시 서비스를 컨테이너 기반 환경으로 이전한 경험이 있으신 분.
 - Spark, Zeppelin, Kafka 등 대규모 데이터 처리 도구의 운영/사용 경험이 있으신 분.
 
