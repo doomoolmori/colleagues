@@ -145,5 +145,5 @@
 
 ## 지원 방법
 
-- recruit@doomoolmori.com 으로 이력서와 아래 공통/우대사항 해당 내용을 보내 주세요.
+- recruit@doomoolmori.com 으로 이력서와 위 공통/우대사항 해당 내용을 보내 주세요.
 - 바로 보내기 부담스럽거나 궁금증이 있으신 분은 jisoo.park@doomoolmori.com 으로 연락주세요.
